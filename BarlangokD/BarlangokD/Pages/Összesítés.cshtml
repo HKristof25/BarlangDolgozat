@@ -1,0 +1,36 @@
+﻿@page
+@model BarlangokD.Pages.ÖsszesítésModel
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BarlangAdatokDTO[0].Telepules)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BarlangAdatokDTO[0].BarlangokSzama)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.BarlangAdatokDTO) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telepules)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BarlangokSzama)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Telepules">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Telepules">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Telepules">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,49 @@
+﻿@page
+@model BarlangokD.Pages.Shared.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>barlang</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.barlang.nev)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.barlang.nev)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.barlang.kiterjedes)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.barlang.kiterjedes)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.barlang.melyseg)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.barlang.melyseg)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.barlang.magassag)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.barlang.magassag)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.barlang.telepules)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.barlang.telepules)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.barlang.id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

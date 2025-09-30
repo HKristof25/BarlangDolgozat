@@ -1,5 +1,6 @@
 ﻿using BarlangokD.Models;
 using Microsoft.EntityFrameworkCore;
+using BarlangokD.DIDs;
 
 namespace BarlangokD.Data
 {
@@ -10,5 +11,6 @@ namespace BarlangokD.Data
 
         }
         public DbSet<barlang> barlangok {  get; set; }
+        public DbSet<BarlangokD.DIDs.BarlangAdatokDTO> BarlangAdatokDTO { get; set; } = default!;
     }
 }

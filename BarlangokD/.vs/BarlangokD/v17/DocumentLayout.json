@@ -1,22 +1,130 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HKris\\Desktop\\BarlangokD\\",
+  "WorkspaceRootPath": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlangokd\\barlangokd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\\u00F6sszes\u00EDt\u00E9s.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\\u00F6sszes\u00EDt\u00E9s.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlangokd\\barlangokd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\\u00F6sszes\u00EDt\u00E9s.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\\u00F6sszes\u00EDt\u00E9s.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlangokd\\barlangokd\\data\\barlangdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\models\\barlang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\models\\barlang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\dids\\barlangadatokdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\dids\\barlangadatokdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\data\\barlangdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\data\\barlangdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlangokd\\barlangokd\\models\\barlang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\models\\barlang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\shared\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\shared\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\shared\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\shared\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\shared\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\shared\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\shared\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\shared\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\shared\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\shared\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\shared\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\shared\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\shared\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\shared\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\shared\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\shared\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\pages\\shared\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\pages\\shared\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|c:\\users\\hkris\\desktop\\barlang dolgozat\\barlangdolgozat\\barlangokd\\barlangokd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E64AAB1-5BB0-4190-8564-6AB1B26F11AC}|BarlangokD\\BarlangokD.csproj|solutionrelative:barlangokd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,15 +134,366 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u00D6sszes\u00EDt\u00E9s.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\\u00D6sszes\u00EDt\u00E9s.cshtml.cs",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\\u00D6sszes\u00EDt\u00E9s.cshtml.cs",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\\u00D6sszes\u00EDt\u00E9s.cshtml.cs",
+              "RelativeToolTip": "BarlangokD\\Pages\\\u00D6sszes\u00EDt\u00E9s.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:38:27.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "\u00D6sszes\u00EDt\u00E9s.cshtml",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\\u00D6sszes\u00EDt\u00E9s.cshtml",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\\u00D6sszes\u00EDt\u00E9s.cshtml",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\\u00D6sszes\u00EDt\u00E9s.cshtml",
+              "RelativeToolTip": "BarlangokD\\Pages\\\u00D6sszes\u00EDt\u00E9s.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:38:27.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BarlangAdatokDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\DIDs\\BarlangAdatokDTO.cs",
+              "RelativeDocumentMoniker": "BarlangokD\\DIDs\\BarlangAdatokDTO.cs",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\DIDs\\BarlangAdatokDTO.cs",
+              "RelativeToolTip": "BarlangokD\\DIDs\\BarlangAdatokDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:35:02.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BarlangokD\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:33:34.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "BarlangokD\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:33:31.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "BarlangokD\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:33:29.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "BarlangokD\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:33:28.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "BarlangokD\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:09:14.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Index.cshtml",
+              "RelativeToolTip": "BarlangokD\\Pages\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:09:14.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Delete.cshtml.cs",
+              "RelativeToolTip": "BarlangokD\\Pages\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:09:14.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Delete.cshtml",
+              "RelativeToolTip": "BarlangokD\\Pages\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:09:14.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Details.cshtml.cs",
+              "RelativeToolTip": "BarlangokD\\Pages\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:09:14.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Details.cshtml",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Details.cshtml",
+              "RelativeToolTip": "BarlangokD\\Pages\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:09:14.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Edit.cshtml.cs",
+              "RelativeToolTip": "BarlangokD\\Pages\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:09:14.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Edit.cshtml",
+              "RelativeToolTip": "BarlangokD\\Pages\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:09:14.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "BarlangokD\\Pages\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:09:13.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Create.cshtml",
+              "RelativeToolTip": "BarlangokD\\Pages\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:09:13.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Shared\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\Index.cshtml.cs",
+              "RelativeToolTip": "BarlangokD\\Pages\\Shared\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:07:46.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\Index.cshtml",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Shared\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\Index.cshtml",
+              "RelativeToolTip": "BarlangokD\\Pages\\Shared\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:07:46.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Shared\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\Delete.cshtml.cs",
+              "RelativeToolTip": "BarlangokD\\Pages\\Shared\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:07:46.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Shared\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\Delete.cshtml",
+              "RelativeToolTip": "BarlangokD\\Pages\\Shared\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:07:46.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Shared\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\Details.cshtml.cs",
+              "RelativeToolTip": "BarlangokD\\Pages\\Shared\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:07:45.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\Details.cshtml",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Shared\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\Details.cshtml",
+              "RelativeToolTip": "BarlangokD\\Pages\\Shared\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:07:45.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Shared\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\Edit.cshtml.cs",
+              "RelativeToolTip": "BarlangokD\\Pages\\Shared\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:07:45.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Shared\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\Edit.cshtml",
+              "RelativeToolTip": "BarlangokD\\Pages\\Shared\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:07:45.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Shared\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\Create.cshtml.cs",
+              "RelativeToolTip": "BarlangokD\\Pages\\Shared\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:07:44.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\Create.cshtml",
+              "RelativeDocumentMoniker": "BarlangokD\\Pages\\Shared\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Pages\\Shared\\Create.cshtml",
+              "RelativeToolTip": "BarlangokD\\Pages\\Shared\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:07:44.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\BarlangokD\\BarlangokD\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\appsettings.json",
               "RelativeDocumentMoniker": "BarlangokD\\appsettings.json",
-              "ToolTip": "C:\\Users\\HKris\\Desktop\\BarlangokD\\BarlangokD\\appsettings.json",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\appsettings.json",
               "RelativeToolTip": "BarlangokD\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -43,11 +502,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\BarlangokD\\BarlangokD\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Program.cs",
               "RelativeDocumentMoniker": "BarlangokD\\Program.cs",
-              "ToolTip": "C:\\Users\\HKris\\Desktop\\BarlangokD\\BarlangokD\\Program.cs",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Program.cs",
               "RelativeToolTip": "BarlangokD\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,27 +514,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "BarlangDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\BarlangokD\\BarlangokD\\Data\\BarlangDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Data\\BarlangDbContext.cs",
               "RelativeDocumentMoniker": "BarlangokD\\Data\\BarlangDbContext.cs",
-              "ToolTip": "C:\\Users\\HKris\\Desktop\\BarlangokD\\BarlangokD\\Data\\BarlangDbContext.cs",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Data\\BarlangDbContext.cs",
               "RelativeToolTip": "BarlangokD\\Data\\BarlangDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:58:05.802Z"
+              "WhenOpened": "2025-09-30T06:58:05.802Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "barlang.cs",
-              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\BarlangokD\\BarlangokD\\Models\\barlang.cs",
+              "DocumentMoniker": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Models\\barlang.cs",
               "RelativeDocumentMoniker": "BarlangokD\\Models\\barlang.cs",
-              "ToolTip": "C:\\Users\\HKris\\Desktop\\BarlangokD\\BarlangokD\\Models\\barlang.cs",
+              "ToolTip": "C:\\Users\\HKris\\Desktop\\Barlang Dolgozat\\BarlangDolgozat\\BarlangokD\\BarlangokD\\Models\\barlang.cs",
               "RelativeToolTip": "BarlangokD\\Models\\barlang.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:56:38.524Z"
+              "WhenOpened": "2025-09-30T06:56:38.524Z",
+              "EditorCaption": ""
             }
           ]
         }
